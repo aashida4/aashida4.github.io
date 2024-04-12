@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atsushi Ashida</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Atsushi Ashida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 09 Apr 2024 18:02:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about_ja/</link>
+      <pubDate>Tue, 09 Apr 2024 18:02:04 +0900</pubDate>
+      <guid>http://localhost:1313/about_ja/</guid>
+      <description>PERSONAL DATA 見出しへのリンク 名前：芦田淳(Ashida Atsushi) 学位：博士（工学） 所属:大阪大学　データビリティフロンティア機構 学歴 見出しへのリンク 2009. 04-2017. 03 関西大学　システム理工学部　電気電子情報工学科　学士（工学） 2017. 04-2019. 03 関西大学大学院　理工学研究科　システム理工学専攻　博士課程前期課程　修士（工学） 2019. 04-2023. 03 関西大学大学院　理工学研究科　総合理工学専攻　博士課程後期課程　博士（工学） 職歴 見出しへのリンク 2017. 04-2021. 03 関西大学　ティーチングアシスタント 2019. 04-2022. 03 関西大学　リサーチアシスタント 2022. 04-2023. 03 関西大学　人間健康学部　非常勤講師 2023. 04-現在 大阪大学　データビリティフロンティア機構　特任研究員（常勤） 教育歴 見出しへのリンク 2017. 04-2019. 03 関西大学　システム理工学部　電気電子情報工学科「応用プログラミング実習」（春学期開講）TA 2017. 04-2021. 03 関西大学　システム理工学部　電気電子情報工学科「プログラミングプロジェクト実習」（秋学期開講）TA 2020.</description>
+    </item>
+    <item>
+      <title>Publication</title>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Fri, 05 Apr 2024 01:11:40 +0900</pubDate>
+      <guid>http://localhost:1313/publication/</guid>
+      <description>Journal international conference Misc Journal 見出しへのリンク 芦田淳, 徳丸正孝, &amp;amp; 小尻智子. (2023). 質問応答手法を用いたメッセージ伝達のための物語構造導出支援システム. 教育システム情報学会誌, 40(2), 155-160. Ashida, A., Tokumaru, M., &amp;amp; Kojiri, T. (2021). Characters’ emotion design support system for writing novels based on story arcs of target readers. Information and Technology in Education and Learning, 1(1), Reg-p005. Ashida, A., &amp;amp; Kojiri, T. (2019). Plot-creation support with plot-construction model for writing novels. Journal of Information and Telecommunication, 3(1), 57-73. International conference 見出しへのリンク Yusuke Nagaya, Atushi Ashida, and Tomoko Kojiri: “Training System for Learning Tactics from E-sports Playing Video Based on Explanations”, Proc.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about_us/</link>
+      <pubDate>Fri, 05 Apr 2024 01:05:59 +0900</pubDate>
+      <guid>http://localhost:1313/en/about_us/</guid>
+      <description>PERSONAL DATA 見出しへのリンク Name: Atsushi ASHIDA Degree: Ph.D. in Engineering Affilation: Institute for Datability Science, The University of Osaka. Education 見出しへのリンク 2009. 04-2017. 03&#xA;Department of Electrical, Electronic and information Engineering, Faculty of Engineering Science, Kansai University, Bachelor of Engineering. 2017. 04-2019. 03&#xA;Master Course, Engineering Science Major, Graduate School of Science and Engineering, Kansai University, Master of Engineering. 2019. 04-2023. 03&#xA;Doctoral Course, Integrated Science and Engineering Major, Graduate School of Science and Engineering, Kansai University, Ph.</description>
+    </item>
+  </channel>
+</rss>
