@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Atsushi Ashida</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Atsushi Ashida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Apr 2024 16:34:41 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめまして</title>
+      <link>http://localhost:1313/posts/first_post/</link>
+      <pubDate>Mon, 15 Apr 2024 16:34:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/first_post/</guid>
+      <description>最近は便利になっているという話 見出しへのリンク おはこんばんちは．という挨拶もあんまり見なくなって久しいですね． はじめての投稿ですね． 最近はこのような投稿をつくるのも便利な時代になりました． Markdownでサクサク書いて，保存するだけでHTMLサイトに変換してくれる便利なやつがあるんですねえ…… 古い時代は自分でHTMLを手打ちしていたというのに，時代の進歩でしょうか． そういえば家には昔買ったHTMLタグ辞典，みたいな本が転がっていますが，今は適当にググるまでもなく，LLMに適当に質問を投げかければたちどころに答えが返ってくる始末ですね． 良い時代になりました． これからもっと良い時代になるのでしょうか． 時代のエッジで見ていたい物ですね．</description>
+    </item>
+  </channel>
+</rss>

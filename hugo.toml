@@ -1,0 +1,70 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = 'Atsushi Ashida'
+theme='hugo-coder'
+defaultContentLanguage = "ja"
+paginate = 6
+enableEmoji = true
+
+
+[markup.highlight]
+noClasses = true
+
+[params]
+author = "Atsushi Ashida"
+description = "Atsushi Ashida website"
+keywords = "blog,developer,personal"
+info = ["Researcher", "information technology"]
+avatarURL = "images/photo.png"
+dateFormat = "January 2, 2006"
+since = 2024
+
+
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+
+[languages.ja]
+languageName = ":jp:"
+
+
+[[languages.ja.menu.main]]
+name = "About"
+weight = 1
+url = "about_ja"
+
+[[languages.ja.menu.main]]
+name = "Posts"
+weight = 2
+url = "posts"
+
+[[languages.ja.menu.main]]
+name = "Publication"
+weight = 3
+url = "publication"
+
+
+
+
+[languages.en]
+languageName = ":us:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about_us/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts_us"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 4
+url = "contact/"
