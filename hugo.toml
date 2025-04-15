@@ -6,6 +6,7 @@ defaultContentLanguage = "ja"
 pagination.pagerSize = 6
 enableEmoji = true
 
+customCSS = ["css/japanese.css"]
 
 [markup.highlight]
 noClasses = true
